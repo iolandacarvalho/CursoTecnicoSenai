@@ -1,0 +1,13 @@
+programa {
+  funcao inicio() {
+
+    inteiro contador
+
+    escreva ("Esses são todos os números pares no intervalo de 0 a 60:\n")
+    para (contador = 0; contador <= 60; contador +=2) {
+      escreva ("\n", contador)
+    }
+
+    escreva ("\n")
+  }
+}

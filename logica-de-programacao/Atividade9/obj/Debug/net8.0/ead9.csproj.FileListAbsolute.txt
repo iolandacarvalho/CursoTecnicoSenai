@@ -1,0 +1,14 @@
+C:\Users\Fábio Pereira Gomes\Meu Drive\Estudos - Iolanda\Senai\Lógica de Programação\ead9\bin\Debug\net8.0\ead9.exe
+C:\Users\Fábio Pereira Gomes\Meu Drive\Estudos - Iolanda\Senai\Lógica de Programação\ead9\bin\Debug\net8.0\ead9.deps.json
+C:\Users\Fábio Pereira Gomes\Meu Drive\Estudos - Iolanda\Senai\Lógica de Programação\ead9\bin\Debug\net8.0\ead9.runtimeconfig.json
+C:\Users\Fábio Pereira Gomes\Meu Drive\Estudos - Iolanda\Senai\Lógica de Programação\ead9\bin\Debug\net8.0\ead9.dll
+C:\Users\Fábio Pereira Gomes\Meu Drive\Estudos - Iolanda\Senai\Lógica de Programação\ead9\bin\Debug\net8.0\ead9.pdb
+C:\Users\Fábio Pereira Gomes\Meu Drive\Estudos - Iolanda\Senai\Lógica de Programação\ead9\obj\Debug\net8.0\ead9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fábio Pereira Gomes\Meu Drive\Estudos - Iolanda\Senai\Lógica de Programação\ead9\obj\Debug\net8.0\ead9.AssemblyInfoInputs.cache
+C:\Users\Fábio Pereira Gomes\Meu Drive\Estudos - Iolanda\Senai\Lógica de Programação\ead9\obj\Debug\net8.0\ead9.AssemblyInfo.cs
+C:\Users\Fábio Pereira Gomes\Meu Drive\Estudos - Iolanda\Senai\Lógica de Programação\ead9\obj\Debug\net8.0\ead9.csproj.CoreCompileInputs.cache
+C:\Users\Fábio Pereira Gomes\Meu Drive\Estudos - Iolanda\Senai\Lógica de Programação\ead9\obj\Debug\net8.0\ead9.dll
+C:\Users\Fábio Pereira Gomes\Meu Drive\Estudos - Iolanda\Senai\Lógica de Programação\ead9\obj\Debug\net8.0\refint\ead9.dll
+C:\Users\Fábio Pereira Gomes\Meu Drive\Estudos - Iolanda\Senai\Lógica de Programação\ead9\obj\Debug\net8.0\ead9.pdb
+C:\Users\Fábio Pereira Gomes\Meu Drive\Estudos - Iolanda\Senai\Lógica de Programação\ead9\obj\Debug\net8.0\ead9.genruntimeconfig.cache
+C:\Users\Fábio Pereira Gomes\Meu Drive\Estudos - Iolanda\Senai\Lógica de Programação\ead9\obj\Debug\net8.0\ref\ead9.dll

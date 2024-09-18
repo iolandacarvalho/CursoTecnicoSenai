@@ -1,0 +1,15 @@
+programa {
+  funcao inicio() {
+    
+    inteiro contador, n, result
+
+    escreva ("Você quer saber a tabuada de qual número? ")
+    leia (n)
+    escreva ("\n")
+
+    para (contador = 1; contador <= 10; contador ++) {
+      result = n * contador
+      escreva (n, " x ", contador, " = ", result, "\n")
+    }
+  }
+}

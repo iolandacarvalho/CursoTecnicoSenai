@@ -1,0 +1,90 @@
+Aluna: Iolanda Carvalho
+
+Código:
+
+programa 
+  { inclua biblioteca Matematica --> mat 
+  funcao inicio () {
+    
+    real l1, l2, potencialpled
+    inteiro quantidadelp
+    
+
+    escreva ("Olá! Seja bem vindo.\nInforme as medidas em metros para que eu possa calcular a área do ambiente.\nLado 1 - ")
+      leia (l1)
+
+    escreva ("Lado 2 - ")
+      leia (l2)
+
+    real area = l1 * l2
+    escreva ("\nA área desse ambiente é de ", area, "m²")
+
+    escreva ("\n\n----------------------------------------------------------------------------\n\n")
+
+    escreva ("Informe a potência da lâmpada de LED que será usada: ")
+      leia (potencialpled)
+
+    escreva ("\n")
+
+    real lumens = area * 500
+    escreva ("Quantidade de lumens necessária: ", lumens, "lm (500lm/m²)\n\n")
+
+    inteiro lampadas = lumens / 85 + 1
+    escreva ("Potência da lâmpada de led: ", lampadas, "W\n")
+
+    quantidadelp = lampadas / potencialpled
+    escreva ("Considerando a quantidade de lumens necessária (", lumens, "lm), precisaremos de aproximadamente ", quantidadelp, " lâmpadas de led para iluminar bem o ambiente.\n")
+
+    real wl = lumens / 85 * 1
+    real wlArredondados
+    wlArredondados = mat.arredondar (wl, 2)
+    escreva ("\nEssa será a potência de consumo aproximada dessas ", quantidadelp, " lâmpadas: ", wlArredondados, "W\n")
+
+    escreva ("\n\n----------------------------------------------------------------------------\n\n")
+
+    real potencialpincand
+    inteiro quantidadelpincand
+    
+    escreva ("Informe a potência da lâmpada incandescente que será usada: ")
+      leia (potencialpincand)
+
+    escreva ("\n")
+
+    escreva ("Quantidade de lumens necessária: ", lumens, "lm (500lm/m²)\n\n")
+
+    inteiro lampadasincand = lumens / 14 + 1
+    escreva ("Potência da lâmpada incandescente: ", lampadasincand, "W\n")
+
+    quantidadelpincand = lampadasincand / potencialpincand
+    escreva ("Considerando a quantidade de lumens necessária (", lumens, "lm), precisaremos de aproximadamente ", quantidadelpincand, " lâmpadas incandescentes para iluminar bem o ambiente.\n")
+
+    real wi = lumens / 14 * 1
+    real wiArredondados
+    wiArredondados = mat.arredondar (wi, 2)
+    escreva ("\nEssa será a potência de consumo aproximada dessas ", quantidadelpincand, " lâmpadas: ", wiArredondados, "W\n")
+
+    escreva ("\n\n----------------------------------------------------------------------------\n\n")
+    
+    real potencialpfluo
+    inteiro quantidadelpfluo
+    
+    escreva ("Informe a potência da lâmpada fluorescente que será usada: ")
+      leia (potencialpfluo)
+
+    escreva ("\n")
+
+    escreva ("Quantidade de lumens necessária: ", lumens, "lm (500lm/m²)\n\n")
+
+    inteiro lampadasfluo = lumens / 50 + 1
+    escreva ("Potência da lâmpada fluorescente: ", lampadasfluo, "W\n")
+
+    quantidadelpfluo = lampadasfluo / potencialpfluo
+    escreva ("Considerando a quantidade de lumens necessária (", lumens, "lm), precisaremos de aproximadamente ", quantidadelpfluo, " lâmpadas fluorescentes para iluminar bem o ambiente.\n")
+
+    real wf = lumens / 14 * 1
+    real wfArredondados
+    wfArredondados = mat.arredondar (wf, 2)
+    escreva ("\nEssa será a potência de consumo aproximada dessas ", quantidadelpfluo, " lâmpadas: ", wfArredondados, "W\n")
+
+  }
+}

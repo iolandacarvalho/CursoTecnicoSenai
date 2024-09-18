@@ -1,0 +1,27 @@
+using System;
+					
+public class Program
+{
+	public static void Main()
+	{
+		//Console.WriteLine("Hello World");
+		
+		Console.WriteLine ("--------------------------");
+		Console.WriteLine ("        - TABUADA -       ");
+		Console.WriteLine ("--------------------------\n");
+		Console.Write ("Você gostaria de ver a tabuada de qual número? ");
+		if (int.TryParse (Console.ReadLine (), out int num)) {
+			int result;
+			
+			Console.WriteLine ("\n\nTABUADA DE " + num + ":\n");
+			
+			for (int cont = 1; cont <= 10; cont ++) {
+			result = num * cont;
+			Console.WriteLine (num + " x " + cont + " = " + result);
+			}
+		}
+		else {
+			Console.WriteLine ("\nValor inválido.");
+		}
+	}
+}

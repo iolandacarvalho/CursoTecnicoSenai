@@ -1,0 +1,35 @@
+using System;
+					
+public class Program
+{
+	public static void Main()
+	{
+		//Console.WriteLine("Hello World");
+		
+		float dolar = 5.48f;
+		float libra = 7.13f;
+		float euro = 6.09f;
+		
+		Console.WriteLine ("-------------------------");
+		Console.WriteLine (" - CONVERSOR DE MOEDAS -");
+		Console.WriteLine ("-------------------------\n");
+		Console.Write ("Informe o valor em reais: ");
+		
+		if (float.TryParse (Console.ReadLine (), out float valor)) {
+			
+			dolar = valor / dolar;
+			
+			libra = valor / libra;
+			
+			euro = valor / euro;
+			
+			Console.WriteLine ("\n\nValor convertido para DÓLAR, EURO e LIBRA:\n");
+			Console.WriteLine ("Dólar: US$" + (Math.Round (dolar, 2)));
+			Console.WriteLine ("Euro: €" + (Math.Round (euro, 2)));
+			Console.WriteLine ("Libra: £" + (Math.Round (libra, 2)));
+		}
+		else {
+			Console.WriteLine ("\nValor inválido.");
+		}
+	}
+}

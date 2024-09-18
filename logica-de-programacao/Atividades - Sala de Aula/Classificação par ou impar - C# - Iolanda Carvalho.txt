@@ -1,0 +1,25 @@
+using System;
+					
+public class Program
+{
+	public static void Main()
+	{
+		//Console.WriteLine("Hello World");
+		Console.WriteLine ("Informe um número: ");
+		
+		if (float.TryParse (Console.ReadLine (), out float n1)) {
+			
+			if (n1 % 2 == 0) {
+				Console.WriteLine ("O número inserido é par!");
+			}
+			else {
+				Console.WriteLine ("O número inserido é impar!");
+			}
+		}
+		
+		else {
+			Console.WriteLine ("Valor inválido.");
+		}
+		
+	}
+}

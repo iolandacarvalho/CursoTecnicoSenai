@@ -1,0 +1,28 @@
+C:\Users\Fábio Pereira Gomes\Meu Drive\Senai\Lógica de Programação\Atividade7\bin\Debug\net8.0\Atividade7.exe
+C:\Users\Fábio Pereira Gomes\Meu Drive\Senai\Lógica de Programação\Atividade7\bin\Debug\net8.0\Atividade7.deps.json
+C:\Users\Fábio Pereira Gomes\Meu Drive\Senai\Lógica de Programação\Atividade7\bin\Debug\net8.0\Atividade7.runtimeconfig.json
+C:\Users\Fábio Pereira Gomes\Meu Drive\Senai\Lógica de Programação\Atividade7\bin\Debug\net8.0\Atividade7.dll
+C:\Users\Fábio Pereira Gomes\Meu Drive\Senai\Lógica de Programação\Atividade7\bin\Debug\net8.0\Atividade7.pdb
+C:\Users\Fábio Pereira Gomes\Meu Drive\Senai\Lógica de Programação\Atividade7\obj\Debug\net8.0\Atividade7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fábio Pereira Gomes\Meu Drive\Senai\Lógica de Programação\Atividade7\obj\Debug\net8.0\Atividade7.AssemblyInfoInputs.cache
+C:\Users\Fábio Pereira Gomes\Meu Drive\Senai\Lógica de Programação\Atividade7\obj\Debug\net8.0\Atividade7.AssemblyInfo.cs
+C:\Users\Fábio Pereira Gomes\Meu Drive\Senai\Lógica de Programação\Atividade7\obj\Debug\net8.0\Atividade7.csproj.CoreCompileInputs.cache
+C:\Users\Fábio Pereira Gomes\Meu Drive\Senai\Lógica de Programação\Atividade7\obj\Debug\net8.0\Atividade7.dll
+C:\Users\Fábio Pereira Gomes\Meu Drive\Senai\Lógica de Programação\Atividade7\obj\Debug\net8.0\refint\Atividade7.dll
+C:\Users\Fábio Pereira Gomes\Meu Drive\Senai\Lógica de Programação\Atividade7\obj\Debug\net8.0\Atividade7.pdb
+C:\Users\Fábio Pereira Gomes\Meu Drive\Senai\Lógica de Programação\Atividade7\obj\Debug\net8.0\Atividade7.genruntimeconfig.cache
+C:\Users\Fábio Pereira Gomes\Meu Drive\Senai\Lógica de Programação\Atividade7\obj\Debug\net8.0\ref\Atividade7.dll
+C:\Users\Fábio Pereira Gomes\Meu Drive\Estudos - Iolanda\Senai\Lógica de Programação\Atividade7\bin\Debug\net8.0\Atividade7.exe
+C:\Users\Fábio Pereira Gomes\Meu Drive\Estudos - Iolanda\Senai\Lógica de Programação\Atividade7\bin\Debug\net8.0\Atividade7.deps.json
+C:\Users\Fábio Pereira Gomes\Meu Drive\Estudos - Iolanda\Senai\Lógica de Programação\Atividade7\bin\Debug\net8.0\Atividade7.runtimeconfig.json
+C:\Users\Fábio Pereira Gomes\Meu Drive\Estudos - Iolanda\Senai\Lógica de Programação\Atividade7\bin\Debug\net8.0\Atividade7.dll
+C:\Users\Fábio Pereira Gomes\Meu Drive\Estudos - Iolanda\Senai\Lógica de Programação\Atividade7\bin\Debug\net8.0\Atividade7.pdb
+C:\Users\Fábio Pereira Gomes\Meu Drive\Estudos - Iolanda\Senai\Lógica de Programação\Atividade7\obj\Debug\net8.0\Atividade7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fábio Pereira Gomes\Meu Drive\Estudos - Iolanda\Senai\Lógica de Programação\Atividade7\obj\Debug\net8.0\Atividade7.AssemblyInfoInputs.cache
+C:\Users\Fábio Pereira Gomes\Meu Drive\Estudos - Iolanda\Senai\Lógica de Programação\Atividade7\obj\Debug\net8.0\Atividade7.AssemblyInfo.cs
+C:\Users\Fábio Pereira Gomes\Meu Drive\Estudos - Iolanda\Senai\Lógica de Programação\Atividade7\obj\Debug\net8.0\Atividade7.csproj.CoreCompileInputs.cache
+C:\Users\Fábio Pereira Gomes\Meu Drive\Estudos - Iolanda\Senai\Lógica de Programação\Atividade7\obj\Debug\net8.0\Atividade7.dll
+C:\Users\Fábio Pereira Gomes\Meu Drive\Estudos - Iolanda\Senai\Lógica de Programação\Atividade7\obj\Debug\net8.0\refint\Atividade7.dll
+C:\Users\Fábio Pereira Gomes\Meu Drive\Estudos - Iolanda\Senai\Lógica de Programação\Atividade7\obj\Debug\net8.0\Atividade7.pdb
+C:\Users\Fábio Pereira Gomes\Meu Drive\Estudos - Iolanda\Senai\Lógica de Programação\Atividade7\obj\Debug\net8.0\Atividade7.genruntimeconfig.cache
+C:\Users\Fábio Pereira Gomes\Meu Drive\Estudos - Iolanda\Senai\Lógica de Programação\Atividade7\obj\Debug\net8.0\ref\Atividade7.dll

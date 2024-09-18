@@ -1,0 +1,42 @@
+c:\Users\fabio\Google Drive\Senai\Lógica de Programação\Atividades - Sala de Aula\Atividade12\bin\Debug\net8.0\Atividade12.exe
+c:\Users\fabio\Google Drive\Senai\Lógica de Programação\Atividades - Sala de Aula\Atividade12\bin\Debug\net8.0\Atividade12.deps.json
+c:\Users\fabio\Google Drive\Senai\Lógica de Programação\Atividades - Sala de Aula\Atividade12\bin\Debug\net8.0\Atividade12.runtimeconfig.json
+c:\Users\fabio\Google Drive\Senai\Lógica de Programação\Atividades - Sala de Aula\Atividade12\bin\Debug\net8.0\Atividade12.dll
+c:\Users\fabio\Google Drive\Senai\Lógica de Programação\Atividades - Sala de Aula\Atividade12\bin\Debug\net8.0\Atividade12.pdb
+c:\Users\fabio\Google Drive\Senai\Lógica de Programação\Atividades - Sala de Aula\Atividade12\obj\Debug\net8.0\Atividade12.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\fabio\Google Drive\Senai\Lógica de Programação\Atividades - Sala de Aula\Atividade12\obj\Debug\net8.0\Atividade12.AssemblyInfoInputs.cache
+c:\Users\fabio\Google Drive\Senai\Lógica de Programação\Atividades - Sala de Aula\Atividade12\obj\Debug\net8.0\Atividade12.AssemblyInfo.cs
+c:\Users\fabio\Google Drive\Senai\Lógica de Programação\Atividades - Sala de Aula\Atividade12\obj\Debug\net8.0\Atividade12.csproj.CoreCompileInputs.cache
+c:\Users\fabio\Google Drive\Senai\Lógica de Programação\Atividades - Sala de Aula\Atividade12\obj\Debug\net8.0\Atividade12.dll
+c:\Users\fabio\Google Drive\Senai\Lógica de Programação\Atividades - Sala de Aula\Atividade12\obj\Debug\net8.0\refint\Atividade12.dll
+c:\Users\fabio\Google Drive\Senai\Lógica de Programação\Atividades - Sala de Aula\Atividade12\obj\Debug\net8.0\Atividade12.pdb
+c:\Users\fabio\Google Drive\Senai\Lógica de Programação\Atividades - Sala de Aula\Atividade12\obj\Debug\net8.0\Atividade12.genruntimeconfig.cache
+c:\Users\fabio\Google Drive\Senai\Lógica de Programação\Atividades - Sala de Aula\Atividade12\obj\Debug\net8.0\ref\Atividade12.dll
+C:\Users\Fábio Pereira Gomes\Meu Drive\Senai\Lógica de Programação\Atividades - Sala de Aula\Atividade12\bin\Debug\net8.0\Atividade12.exe
+C:\Users\Fábio Pereira Gomes\Meu Drive\Senai\Lógica de Programação\Atividades - Sala de Aula\Atividade12\bin\Debug\net8.0\Atividade12.deps.json
+C:\Users\Fábio Pereira Gomes\Meu Drive\Senai\Lógica de Programação\Atividades - Sala de Aula\Atividade12\bin\Debug\net8.0\Atividade12.runtimeconfig.json
+C:\Users\Fábio Pereira Gomes\Meu Drive\Senai\Lógica de Programação\Atividades - Sala de Aula\Atividade12\bin\Debug\net8.0\Atividade12.dll
+C:\Users\Fábio Pereira Gomes\Meu Drive\Senai\Lógica de Programação\Atividades - Sala de Aula\Atividade12\bin\Debug\net8.0\Atividade12.pdb
+C:\Users\Fábio Pereira Gomes\Meu Drive\Senai\Lógica de Programação\Atividades - Sala de Aula\Atividade12\obj\Debug\net8.0\Atividade12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fábio Pereira Gomes\Meu Drive\Senai\Lógica de Programação\Atividades - Sala de Aula\Atividade12\obj\Debug\net8.0\Atividade12.AssemblyInfoInputs.cache
+C:\Users\Fábio Pereira Gomes\Meu Drive\Senai\Lógica de Programação\Atividades - Sala de Aula\Atividade12\obj\Debug\net8.0\Atividade12.AssemblyInfo.cs
+C:\Users\Fábio Pereira Gomes\Meu Drive\Senai\Lógica de Programação\Atividades - Sala de Aula\Atividade12\obj\Debug\net8.0\Atividade12.csproj.CoreCompileInputs.cache
+C:\Users\Fábio Pereira Gomes\Meu Drive\Senai\Lógica de Programação\Atividades - Sala de Aula\Atividade12\obj\Debug\net8.0\Atividade12.dll
+C:\Users\Fábio Pereira Gomes\Meu Drive\Senai\Lógica de Programação\Atividades - Sala de Aula\Atividade12\obj\Debug\net8.0\refint\Atividade12.dll
+C:\Users\Fábio Pereira Gomes\Meu Drive\Senai\Lógica de Programação\Atividades - Sala de Aula\Atividade12\obj\Debug\net8.0\Atividade12.pdb
+C:\Users\Fábio Pereira Gomes\Meu Drive\Senai\Lógica de Programação\Atividades - Sala de Aula\Atividade12\obj\Debug\net8.0\Atividade12.genruntimeconfig.cache
+C:\Users\Fábio Pereira Gomes\Meu Drive\Senai\Lógica de Programação\Atividades - Sala de Aula\Atividade12\obj\Debug\net8.0\ref\Atividade12.dll
+C:\Users\Fábio Pereira Gomes\Meu Drive\Estudos - Iolanda\Senai\Lógica de Programação\Atividades - Sala de Aula\Atividade12\bin\Debug\net8.0\Atividade12.exe
+C:\Users\Fábio Pereira Gomes\Meu Drive\Estudos - Iolanda\Senai\Lógica de Programação\Atividades - Sala de Aula\Atividade12\bin\Debug\net8.0\Atividade12.deps.json
+C:\Users\Fábio Pereira Gomes\Meu Drive\Estudos - Iolanda\Senai\Lógica de Programação\Atividades - Sala de Aula\Atividade12\bin\Debug\net8.0\Atividade12.runtimeconfig.json
+C:\Users\Fábio Pereira Gomes\Meu Drive\Estudos - Iolanda\Senai\Lógica de Programação\Atividades - Sala de Aula\Atividade12\bin\Debug\net8.0\Atividade12.dll
+C:\Users\Fábio Pereira Gomes\Meu Drive\Estudos - Iolanda\Senai\Lógica de Programação\Atividades - Sala de Aula\Atividade12\bin\Debug\net8.0\Atividade12.pdb
+C:\Users\Fábio Pereira Gomes\Meu Drive\Estudos - Iolanda\Senai\Lógica de Programação\Atividades - Sala de Aula\Atividade12\obj\Debug\net8.0\Atividade12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fábio Pereira Gomes\Meu Drive\Estudos - Iolanda\Senai\Lógica de Programação\Atividades - Sala de Aula\Atividade12\obj\Debug\net8.0\Atividade12.AssemblyInfoInputs.cache
+C:\Users\Fábio Pereira Gomes\Meu Drive\Estudos - Iolanda\Senai\Lógica de Programação\Atividades - Sala de Aula\Atividade12\obj\Debug\net8.0\Atividade12.AssemblyInfo.cs
+C:\Users\Fábio Pereira Gomes\Meu Drive\Estudos - Iolanda\Senai\Lógica de Programação\Atividades - Sala de Aula\Atividade12\obj\Debug\net8.0\Atividade12.csproj.CoreCompileInputs.cache
+C:\Users\Fábio Pereira Gomes\Meu Drive\Estudos - Iolanda\Senai\Lógica de Programação\Atividades - Sala de Aula\Atividade12\obj\Debug\net8.0\Atividade12.dll
+C:\Users\Fábio Pereira Gomes\Meu Drive\Estudos - Iolanda\Senai\Lógica de Programação\Atividades - Sala de Aula\Atividade12\obj\Debug\net8.0\refint\Atividade12.dll
+C:\Users\Fábio Pereira Gomes\Meu Drive\Estudos - Iolanda\Senai\Lógica de Programação\Atividades - Sala de Aula\Atividade12\obj\Debug\net8.0\Atividade12.pdb
+C:\Users\Fábio Pereira Gomes\Meu Drive\Estudos - Iolanda\Senai\Lógica de Programação\Atividades - Sala de Aula\Atividade12\obj\Debug\net8.0\Atividade12.genruntimeconfig.cache
+C:\Users\Fábio Pereira Gomes\Meu Drive\Estudos - Iolanda\Senai\Lógica de Programação\Atividades - Sala de Aula\Atividade12\obj\Debug\net8.0\ref\Atividade12.dll

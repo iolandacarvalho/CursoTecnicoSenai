@@ -1,0 +1,28 @@
+C:\Users\fabio\Google Drive\Estudos - Iolanda\Senai\Lógica de Programação\Atividades - Sala de Aula\Atividade13\bin\Debug\net8.0\Atividade13.exe
+C:\Users\fabio\Google Drive\Estudos - Iolanda\Senai\Lógica de Programação\Atividades - Sala de Aula\Atividade13\bin\Debug\net8.0\Atividade13.deps.json
+C:\Users\fabio\Google Drive\Estudos - Iolanda\Senai\Lógica de Programação\Atividades - Sala de Aula\Atividade13\bin\Debug\net8.0\Atividade13.runtimeconfig.json
+C:\Users\fabio\Google Drive\Estudos - Iolanda\Senai\Lógica de Programação\Atividades - Sala de Aula\Atividade13\bin\Debug\net8.0\Atividade13.dll
+C:\Users\fabio\Google Drive\Estudos - Iolanda\Senai\Lógica de Programação\Atividades - Sala de Aula\Atividade13\bin\Debug\net8.0\Atividade13.pdb
+C:\Users\fabio\Google Drive\Estudos - Iolanda\Senai\Lógica de Programação\Atividades - Sala de Aula\Atividade13\obj\Debug\net8.0\Atividade13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\Google Drive\Estudos - Iolanda\Senai\Lógica de Programação\Atividades - Sala de Aula\Atividade13\obj\Debug\net8.0\Atividade13.AssemblyInfoInputs.cache
+C:\Users\fabio\Google Drive\Estudos - Iolanda\Senai\Lógica de Programação\Atividades - Sala de Aula\Atividade13\obj\Debug\net8.0\Atividade13.AssemblyInfo.cs
+C:\Users\fabio\Google Drive\Estudos - Iolanda\Senai\Lógica de Programação\Atividades - Sala de Aula\Atividade13\obj\Debug\net8.0\Atividade13.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Google Drive\Estudos - Iolanda\Senai\Lógica de Programação\Atividades - Sala de Aula\Atividade13\obj\Debug\net8.0\Atividade13.dll
+C:\Users\fabio\Google Drive\Estudos - Iolanda\Senai\Lógica de Programação\Atividades - Sala de Aula\Atividade13\obj\Debug\net8.0\refint\Atividade13.dll
+C:\Users\fabio\Google Drive\Estudos - Iolanda\Senai\Lógica de Programação\Atividades - Sala de Aula\Atividade13\obj\Debug\net8.0\Atividade13.pdb
+C:\Users\fabio\Google Drive\Estudos - Iolanda\Senai\Lógica de Programação\Atividades - Sala de Aula\Atividade13\obj\Debug\net8.0\Atividade13.genruntimeconfig.cache
+C:\Users\fabio\Google Drive\Estudos - Iolanda\Senai\Lógica de Programação\Atividades - Sala de Aula\Atividade13\obj\Debug\net8.0\ref\Atividade13.dll
+C:\Users\Fábio Pereira Gomes\Meu Drive\Estudos - Iolanda\Senai\Lógica de Programação\Atividade13\bin\Debug\net8.0\Atividade13.exe
+C:\Users\Fábio Pereira Gomes\Meu Drive\Estudos - Iolanda\Senai\Lógica de Programação\Atividade13\bin\Debug\net8.0\Atividade13.deps.json
+C:\Users\Fábio Pereira Gomes\Meu Drive\Estudos - Iolanda\Senai\Lógica de Programação\Atividade13\bin\Debug\net8.0\Atividade13.runtimeconfig.json
+C:\Users\Fábio Pereira Gomes\Meu Drive\Estudos - Iolanda\Senai\Lógica de Programação\Atividade13\bin\Debug\net8.0\Atividade13.dll
+C:\Users\Fábio Pereira Gomes\Meu Drive\Estudos - Iolanda\Senai\Lógica de Programação\Atividade13\bin\Debug\net8.0\Atividade13.pdb
+C:\Users\Fábio Pereira Gomes\Meu Drive\Estudos - Iolanda\Senai\Lógica de Programação\Atividade13\obj\Debug\net8.0\Atividade13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fábio Pereira Gomes\Meu Drive\Estudos - Iolanda\Senai\Lógica de Programação\Atividade13\obj\Debug\net8.0\Atividade13.AssemblyInfoInputs.cache
+C:\Users\Fábio Pereira Gomes\Meu Drive\Estudos - Iolanda\Senai\Lógica de Programação\Atividade13\obj\Debug\net8.0\Atividade13.AssemblyInfo.cs
+C:\Users\Fábio Pereira Gomes\Meu Drive\Estudos - Iolanda\Senai\Lógica de Programação\Atividade13\obj\Debug\net8.0\Atividade13.csproj.CoreCompileInputs.cache
+C:\Users\Fábio Pereira Gomes\Meu Drive\Estudos - Iolanda\Senai\Lógica de Programação\Atividade13\obj\Debug\net8.0\Atividade13.dll
+C:\Users\Fábio Pereira Gomes\Meu Drive\Estudos - Iolanda\Senai\Lógica de Programação\Atividade13\obj\Debug\net8.0\refint\Atividade13.dll
+C:\Users\Fábio Pereira Gomes\Meu Drive\Estudos - Iolanda\Senai\Lógica de Programação\Atividade13\obj\Debug\net8.0\Atividade13.pdb
+C:\Users\Fábio Pereira Gomes\Meu Drive\Estudos - Iolanda\Senai\Lógica de Programação\Atividade13\obj\Debug\net8.0\Atividade13.genruntimeconfig.cache
+C:\Users\Fábio Pereira Gomes\Meu Drive\Estudos - Iolanda\Senai\Lógica de Programação\Atividade13\obj\Debug\net8.0\ref\Atividade13.dll

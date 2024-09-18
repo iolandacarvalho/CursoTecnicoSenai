@@ -1,0 +1,19 @@
+programa {
+  funcao inicio() {
+
+    inteiro quantidade, contador, total
+    
+    total = 0
+
+    escreva ("Informe até qual número você gostaria de somar: ")
+    leia (quantidade)
+    escreva ("\n")
+
+    para (contador = 1; contador <= quantidade; contador ++) {
+      escreva (contador, ", ")
+      total = total + contador
+    }
+
+    escreva ("\n\nA soma fica nesse valor: ", total, "\n")
+  }
+}

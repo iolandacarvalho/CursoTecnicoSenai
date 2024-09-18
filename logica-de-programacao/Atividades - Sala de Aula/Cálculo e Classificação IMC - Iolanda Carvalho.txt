@@ -1,0 +1,39 @@
+programa { inclua biblioteca Matematica --> mat
+  funcao inicio () {
+
+    real peso
+    real altura
+
+    escreva ("Olá!\nVamos calcular seu IMC!\n\nPara isso, me informe seu peso: ")
+    leia (peso)
+    escreva ("Agora, me informe sua altura: ")
+    leia (altura)
+
+    real imc = mat.arredondar (peso / (altura * altura), 1)
+
+    escreva ("\n----------------------------------\n")
+    escreva ("Prontinho! Seu IMC é: ")
+    escreva (imc)
+    escreva (" kg/m2\n")
+
+    se (imc <= 18.5) {
+      escreva ("Considerando seu IMC, você está abaixo do peso!\n")
+    }
+    senao se ((imc > 18.5) e (imc <= 24.9)) {
+      escreva ("Considerando seu IMC, você está no seu peso ideal!\n")
+    }
+    senao se ((imc >= 25) e (imc <= 29.9)) {
+      escreva ("Considerando seu IMC, você está acima do peso!\n")
+    }
+    senao se (imc >= 30) {
+      escreva ("Considerando seu IMC, você está em um quadro de obesidade!\n")
+    }
+
+    escreva ("--------------------------------\n")
+    escreva ("\nTABELA DE IMC:\n\n")
+    escreva ("ABAIXO DO PESO: IMC menor que 18.5 kg/m²\n")
+    escreva ("...PESO NORMAL: IMC entre 18.5 kg/m² e 29.9 kg/m²\n")
+    escreva (".....SOBREPESO: IMC entre 25 kg/m² e 29.9 kg/m²\n")
+    escreva (".....OBESIDADE: IMC maior ou igual a 30 kg/m²\n")
+}
+}

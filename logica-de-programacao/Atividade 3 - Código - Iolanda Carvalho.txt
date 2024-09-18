@@ -1,0 +1,238 @@
+Aluna: Iolanda Carvalho
+
+Código:
+
+programa { inclua biblioteca Matematica --> mat
+  funcao inicio() {
+    
+    escreva ("------------------------------ CARDÁPIO ------------------------------\n\n")
+    escreva ("                               LANCHES\n\n")
+    escreva (" 1. X-BURGUER         R$20,90           2. X-FRANGO           R$21,50\n")
+    escreva (" 3. X-TUDO            R$31,20           4. X-CALABRESA        R$21,50\n")
+    escreva (" 5. X-BACON           R$22,30           6. MISTO QUENTE       R$15,20\n")
+    escreva (" 7. X-SALADA          R$25,00           8. PÃO COM OVO        R$10,00\n\n\n")
+    escreva ("                               PORÇÕES\n\n")
+    escreva (" 9. BATATA FRITA P    R$12,00          10. SALADA COMPLETA    R$18,60\n")
+    escreva ("11. BATATA FRITA M    R$14,00          12. PASTEL FRITO       R$11,50\n")
+    escreva ("13. BATATA COM BACON  R$18,00          14. COXINHAS           R$8,70\n\n\n")
+    escreva ("                               BEBIDAS\n\n")
+    escreva ("15. SUCO DE FRUTA     R$10,50          16. REFRIGERANTE 1L    R$12,90\n")
+    escreva ("17. ÁGUA MINERAL      R$2,00           18. REFRIGERANTE 2L    R$16,50\n")
+    escreva ("19. REFRIGERANTE LATA R$10,30          20. LIMONADA           R$8,50\n\n")
+    escreva ("--------------------------------------------------------------\n\n")
+
+    inteiro nlanche, nporcao, nbebida
+    inteiro qntl, qntp, qntb
+    real vul, vl, total, vup, vp, vub, vb
+
+    escreva ("Digite o número correspondente a opção de lanche escolhida (caso não queira um lanche, digite 0): ")
+    leia (nlanche)
+    escreva ("Informe a quantidade: ")
+    leia (qntl)
+    escreva ("\n\n")
+    escreva ("Digite o número correspondente a opção de porção escolhida (caso não queira uma porção, digite 00): ")
+    leia (nporcao)
+    escreva ("Informe a quantidade: ")
+    leia (qntp)
+    escreva ("\n\n")
+    escreva ("Digite o número correspondente a opção de bebida escolhida (caso não queira uma bebida, digite 000): ")
+    leia (nbebida)
+    escreva ("Informe a quantidade: ")
+    leia (qntb)
+    escreva ("\n\n--------------------------------------------------------------\n\n")
+
+
+      escolha (nlanche) {
+        caso 0:
+          vl = 0
+          total = mat.arredondar (vl, 2)
+          escreva ("- não foi escolhida uma opção de lanche -")
+        pare
+        
+        caso 1:
+          vul = 20.90
+          vl = mat.arredondar (vul * qntl, 2)
+          total = mat.arredondar (vl, 2)
+          escreva ("QUANTIDADE          LANCHE          VALOR UN          VALOR\n")
+          escreva ("    ", qntl, "              X-BURGER         ", " R$", vul, "           R$", vl)
+        pare
+
+        caso 2:
+          vul = 21.50
+          vl = mat.arredondar (vul * qntl, 2)
+          total = mat.arredondar (vl, 2)
+          escreva ("QUANTIDADE          LANCHE          VALOR UN          VALOR\n")
+          escreva ("    ", qntl, "              X-FRANGO         ", " R$", vul, "           R$", vl)
+        pare
+
+        caso 3:
+          vul = 31.20
+          vl = mat.arredondar (vul * qntl, 2)
+          total = mat.arredondar (vl, 2)
+          escreva ("QUANTIDADE          LANCHE          VALOR UN          VALOR\n")
+          escreva ("    ", qntl, "               X-TUDO         ", "  R$", vul, "           R$", vl)
+        pare
+
+        caso 4:
+          vul = 21.50
+          vl = mat.arredondar (vul * qntl, 2)
+          total = mat.arredondar (vl, 2)
+          escreva ("QUANTIDADE          LANCHE          VALOR UN          VALOR\n")
+          escreva ("    ", qntl, "            X-CALABRESA       ", "  R$", vul, "           R$", vl)
+        pare
+
+        caso 5:
+          vul = 22.30
+          vl = mat.arredondar (vul * qntl, 2)
+          total = mat.arredondar (vl, 2)
+          escreva ("QUANTIDADE          LANCHE          VALOR UN          VALOR\n")
+          escreva ("    ", qntl, "               X-BACON        ", "  R$", vul, "           R$", vl)
+        pare
+
+        caso 6:
+          vul = 15.20
+          vl = mat.arredondar (vul * qntl, 2)
+          total = mat.arredondar (vl, 2)
+          escreva ("QUANTIDADE          LANCHE          VALOR UN          VALOR\n")
+          escreva ("    ", qntl, "            MISTO QUENTE        ", "R$", vul, "           R$", vl)
+        pare
+
+        caso 7:
+          vul = 25.00
+          vl = mat.arredondar (vul * qntl, 2)
+          total = mat.arredondar (vl, 2)
+          escreva ("QUANTIDADE          LANCHE          VALOR UN          VALOR\n")
+          escreva ("    ", qntl, "              X-SALADA       ", "    R$", vul, "            R$", vl)
+        pare
+
+        caso 8:
+          vul = 10.00
+          vl = mat.arredondar (vul * qntl, 2)
+          total = mat.arredondar (vl, 2)
+          escreva ("QUANTIDADE          LANCHE          VALOR UN          VALOR\n")
+          escreva ("    ", qntl, "            PÃO COM OVO         ", " R$", vul, "            R$", vl)
+        pare
+      }
+
+      escreva ("\n\n--------------------------------------------------------------\n\n")
+
+      escolha (nporcao) {
+        caso 00:
+          vp = 0
+          total = mat.arredondar (vl + vp, 2)
+          escreva ("- não foi escolhida uma opção de porção -")
+        pare
+
+        caso 9:
+          vup = 12.00
+          vp = mat.arredondar (vup * qntp, 2)
+          total = mat.arredondar (vl + vp, 2)
+          escreva ("QUANTIDADE          PORÇÃO          VALOR UN          VALOR\n")
+          escreva ("    ", qntp, "           BATATA FRITA P        ", "R$", vup, "            R$", vp)
+        pare
+
+        caso 10:
+          vup = 18.60
+          vp = mat.arredondar (vup * qntp, 2)
+          total = mat.arredondar (vl + vp, 2)
+          escreva ("QUANTIDADE          PORÇÃO          VALOR UN          VALOR\n")
+          escreva ("    ", qntp, "           SALADA COMPLETA      ", "R$", vup, "          R$", vp)
+        pare
+
+        caso 11:
+          vup = 14.00
+          vp = mat.arredondar (vup * qntp, 2)
+          total = mat.arredondar (vl + vp, 2)
+          escreva ("QUANTIDADE          PORÇÃO          VALOR UN          VALOR\n")
+          escreva ("    ", qntp, "           BATATA FRITA M      ", "  R$", vup, "            R$", vp)
+        pare
+
+        caso 12:
+          vup = 11.50
+          vp = mat.arredondar (vup * qntp, 2)
+          total = mat.arredondar (vl + vp, 2)
+          escreva ("QUANTIDADE          PORÇÃO          VALOR UN          VALOR\n")
+          escreva ("    ", qntp, "           PASTEL FRITO      ", "   R$", vup, "           R$", vp)
+        pare
+
+        caso 13:
+          vup = 18.00
+          vp = mat.arredondar (vup * qntp, 2)
+          total = mat.arredondar (vl + vp, 2)
+          escreva ("QUANTIDADE          PORÇÃO          VALOR UN          VALOR\n")
+          escreva ("    ", qntp, "          BATATA COM BACON      ", " R$", vup, "            R$", vp)
+        pare
+
+        caso 14:
+          vup = 8.70
+          vp = mat.arredondar (vup * qntp, 2)
+          total = mat.arredondar (vl + vp, 2)
+          escreva ("QUANTIDADE          PORÇÃO          VALOR UN          VALOR\n")
+          escreva ("    ", qntp, "              COXINHAS      ", "    R$", vup, "            R$", vp)
+        pare
+      }
+
+      escreva ("\n\n--------------------------------------------------------------\n\n")
+
+      escolha (nbebida) {
+        caso 000:
+          vb = 0
+          total = mat.arredondar (vl + vp + vb, 2)
+          escreva ("- não foi escolhida uma opção de bebida -")
+        pare
+
+        caso 15:
+          vub = 10.50
+          vb = mat.arredondar (vub * qntb, 2)
+          total = mat.arredondar (vl + vp + vb, 2)
+          escreva ("QUANTIDADE          BEBIDA          VALOR UN          VALOR\n")
+          escreva ("    ", qntb, "            SUCO DE FRUTA      ", " R$", vub, "            R$", vb)
+        pare
+
+        caso 16:
+          vub = 12.90
+          vb = mat.arredondar (vub * qntb, 2)
+          total = mat.arredondar (vl + vp + vb, 2)
+          escreva ("QUANTIDADE          BEBIDA          VALOR UN          VALOR\n")
+          escreva ("    ", qntb, "           REFRIGERANTE 1L      ", "R$", vub, "           R$", vb)
+        pare
+
+        caso 17:
+          vub = 2.00
+          vb = mat.arredondar (vub * qntb, 2)
+          total = mat.arredondar (vl + vp + vb, 2)
+          escreva ("QUANTIDADE          BEBIDA          VALOR UN          VALOR\n")
+          escreva ("    ", qntb, "            ÁGUA MINERAL      ", "   R$", vub, "              R$", vb)
+        pare
+
+        caso 18:
+          vub = 16.50
+          vb = mat.arredondar (vub * qntb, 2)
+          total = mat.arredondar (vl + vp + vb, 2)
+          escreva ("QUANTIDADE          BEBIDA          VALOR UN          VALOR\n")
+          escreva ("    ", qntb, "          REFRIGERANTE 2L      ", " R$", vub, "           R$", vb)
+        pare
+
+        caso 19:
+          vub = 10.30
+          vb = mat.arredondar (vub * qntb, 2)
+          total = mat.arredondar (vl + vp + vb, 2)
+          escreva ("QUANTIDADE          BEBIDA          VALOR UN          VALOR\n")
+          escreva ("    ", qntb, "         REFRIGERANTE LATA      ", "R$", vub, "           R$", vb)
+        pare
+
+        caso 20:
+          vub = 8.50
+          vb = mat.arredondar (vub * qntb, 2)
+          total = mat.arredondar (vl + vp + vb, 2)
+          escreva ("QUANTIDADE          BEBIDA          VALOR UN          VALOR\n")
+          escreva ("    ", qntb, "              LIMONADA      ", "    R$", vub, "            R$", vb)
+        pare
+      }
+       
+       escreva ("\n\n----------------------------------\n")
+       escreva ("  VALOR TOTAL A SER PAGO: R$", total)
+       escreva ("\n----------------------------------\n\n")
+      
+  }
+}

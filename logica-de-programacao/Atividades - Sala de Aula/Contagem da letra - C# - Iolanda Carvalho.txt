@@ -1,0 +1,30 @@
+using System;
+					
+public class Program
+{
+	public static void Main()
+	{
+		//Console.WriteLine("Hello World");
+		
+		Console.WriteLine ("---------------------");
+		Console.WriteLine ("- CONTAGEM DA LETRA -");
+		Console.WriteLine ("---------------------");
+		
+		Console.Write ("\nInforme uma palavra: ");
+		string palavra = Console.ReadLine();
+		
+		int cont = 0;
+		
+		Console.Write ("\nInforme uma letra: ");
+		char letra = Console.ReadLine()[0];
+			
+				foreach (char i in palavra) {
+        			if (i == letra) {
+					cont++;
+					}
+      			} 
+			Console.WriteLine ("\n------------------------------------------------------------");
+			Console.WriteLine ($"\nA quantidade de vezes que a letra '{letra}' aparece é: {cont}");
+			
+		}
+	}

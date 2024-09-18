@@ -1,0 +1,23 @@
+programa {
+  funcao inicio() {
+
+    inteiro quantidade, contador, total, nota
+    real media
+    total = 0
+
+    escreva ("Informe a quantidade de números que você gostaria de calcular a média: ")
+    leia (quantidade)
+    escreva ("\n")
+
+    para (contador = 1; contador <= quantidade; contador ++) {
+      escreva ("Informe sua ", contador, "ª nota: ")
+      leia (nota)
+      total = total + nota
+    }
+    
+    media = total / quantidade
+    escreva ("\n----------------------")
+    escreva ("\nA sua média é: ", media, "\n")
+    escreva ("----------------------\n")
+  }
+}

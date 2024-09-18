@@ -1,0 +1,77 @@
+using System;
+					
+public class Program
+{
+	public static void Main()
+	{
+		//Console.WriteLine("Hello World");
+		
+		Console.WriteLine ("-------------------------------");
+		Console.WriteLine ("    - Operações possiveis -    ");
+		Console.WriteLine ("-------------------------------");
+		Console.WriteLine ("       1) + -> Soma");
+		Console.WriteLine ("       2) - -> Subtração");
+		Console.WriteLine ("       3) * -> Multiplicação");
+		Console.WriteLine ("       4) / -> Divisão");
+		Console.WriteLine ("-------------------------------");
+		
+		Console.Write ("\n\nInforme o número correspondente a operação que deseja realizar: ");
+		if (int.TryParse (Console.ReadLine (), out int operacao)) {
+			float result;
+			if (operacao > 0 && operacao < 5) {
+				Console.Write ("\nInforme o 1º número: ");
+				if (float.TryParse (Console.ReadLine (), out float n1)) {
+				Console.Write ("\nInforme o 2º número: ");
+				if (float.TryParse (Console.ReadLine (), out float n2)) {
+					
+					if (operacao == 1) {
+						result = n1 + n2;
+						Console.WriteLine ("\n\n-----------------------------------------------\n");
+						Console.WriteLine ("O valor de " + n1 + " + " + n2 + " é igual a: " + result);
+						Console.WriteLine ("\n" + n1 + " + " + n2 + " = " + result);
+					}
+					else if (operacao == 2) {
+						result = n1 - n2;
+						Console.WriteLine ("\n\n-----------------------------------------------\n");
+						Console.WriteLine ("O valor de " + n1 + " - " + n2 + " é igual a: " + result);
+						Console.WriteLine ("\n" + n1 + " - " + n2 + " = " + result);
+					}
+					else if (operacao == 3) {
+						result = n1 * n2;
+						Console.WriteLine ("\n\n-----------------------------------------------\n");
+						Console.WriteLine ("O valor de " + n1 + " x " + n2 + " é igual a: " + result);
+						Console.WriteLine ("\n" + n1 + " x " + n2 + " = " + result);
+					}
+					else {
+						if (n1 == 0) {
+							Console.WriteLine ("\nValor inválido ou divisão por 0.");
+						}
+						else if (n2 == 0) {
+							Console.WriteLine ("\nValor inválido ou divisão por 0.");
+						}
+						else {
+							result = n1 / n2;
+							Console.WriteLine ("\n\n-----------------------------------------------\n");
+							Console.WriteLine ("O valor de " + n1 + " ÷ " + n2 + " é igual a: " + result);
+							Console.WriteLine ("\n" + n1 + " ÷ " + n2 + " = " + result);
+						}
+					}
+				}
+				else {
+					Console.WriteLine ("\nValor inválido");
+				}
+				}
+				else {
+					Console.WriteLine ("\nValor inválido.");
+				}
+			}
+			else {
+				Console.WriteLine ("\nValor inválido.");
+			}
+		}
+		else {
+			Console.WriteLine ("\nValor inválido.");
+		}
+
+	}
+}

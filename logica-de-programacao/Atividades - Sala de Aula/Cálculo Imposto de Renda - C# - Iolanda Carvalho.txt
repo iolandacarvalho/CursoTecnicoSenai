@@ -1,0 +1,40 @@
+using System;
+					
+public class Program
+{
+	public static void Main()
+	{
+		//Console.WriteLine("Hello World");
+		Console.WriteLine ("Vamos calcular o seu Imposto de Renda!\n");
+		Console.Write ("Para isso, informe o seu salário bruto: ");
+	
+		if (float.TryParse (Console.ReadLine (), out float salario)) {
+		
+			if (salario <= 3000) {
+				float imposto = (salario / 100) * 10;
+				Console.WriteLine ("\n---------------------------------------------------------");
+				Console.WriteLine ("Esse é o valor que você precisa pagar de imposto: R$" + imposto);
+				Console.WriteLine ("---------------------------------------------------------");			
+				}
+		
+			else if (salario <= 6000) {
+				float imposto = (salario / 100) * 15;
+				Console.WriteLine ("\n---------------------------------------------------------");
+				Console.WriteLine ("Esse é o valor que você precisa pagar de imposto: R$" + imposto);
+				Console.WriteLine ("---------------------------------------------------------");
+			}
+		
+			else {
+				float imposto = (salario / 100) * 20;
+				Console.WriteLine ("\n---------------------------------------------------------");
+				Console.WriteLine ("Esse é o valor que você precisa pagar de imposto: R$" + imposto);
+				Console.WriteLine ("---------------------------------------------------------");
+			}
+		}
+		
+		else {	
+			Console.WriteLine ("Informação iválida");
+		}
+
+	}
+}
